@@ -39,7 +39,7 @@ int main() {
 
 	for (int i = 0; i < N; i++) {
 		arrB[i] = arrBP[i];
-	}
+	} // BP의 원소 B에 할당
 
 
 
